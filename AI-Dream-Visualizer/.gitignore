@@ -1,0 +1,7 @@
+__pycache__/
+*.png
+*.pt
+*.ckpt
+venv/
+.idea/
+.env
