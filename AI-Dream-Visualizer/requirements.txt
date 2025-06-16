@@ -1,0 +1,8 @@
+streamlit
+torch
+diffusers
+transformers
+spacy
+ollama
+Pillow
+safetensors
